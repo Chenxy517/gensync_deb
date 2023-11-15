@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Thu, 26 Oct 2023 00:29:14 -0400
+Source: gensync
+Binary: gensync
+Built-For-Profiles: noudeb
+Architecture: source amd64
+Version: 2.0.5-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Xingyu Chen <chxy517@bu.edu>
+Changed-By: Xingyu Chen <chxy517@bu.edu>
+Description:
+ gensync    - a library for efficient synchronization of data over a network. G
+Changes:
+ gensync (2.0.5-1) UNRELEASED; urgency=medium
+ .
+   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+Checksums-Sha1:
+ 8c196cd895d7403d8740839ec11eaf6c4f5ab4e5 865 gensync_2.0.5-1.dsc
+ 7d49158d02a9dda95725776e6c2c52cf3f20c574 41154412 gensync_2.0.5.orig.tar.gz
+ abf01deb9ca0e629fa404fc72932ec2587ac03f1 9016 gensync_2.0.5-1.debian.tar.xz
+ f0eccd98f42d072d9fe950ac308027f7f760d920 6182 gensync_2.0.5-1_amd64.buildinfo
+ 68501321298fa44405b197b84665f8f4a99c9e98 891548 gensync_2.0.5-1_amd64.deb
+Checksums-Sha256:
+ 7c1321ab578d72d1f0ba2581389d05af4c20408ccc8b3130452f01966e4afbb5 865 gensync_2.0.5-1.dsc
+ 9fa97fa6f55c1e2577dd1649d10edeb0d6ed1e1d7719bae4669858dcfa8a95f7 41154412 gensync_2.0.5.orig.tar.gz
+ b4b11e721ee9b7b1436a2556df4a69dbea3e1a1dd081f17d1de202d79c8ed024 9016 gensync_2.0.5-1.debian.tar.xz
+ 232ba8a306984d5c76f48e8190eeee17325ac3b38276dcfe99f61a63e6c49af9 6182 gensync_2.0.5-1_amd64.buildinfo
+ 49212538d8226993b77ac89376fe5bdeef35835681aa22ed684ced5f96eb4bcc 891548 gensync_2.0.5-1_amd64.deb
+Files:
+ 467e76d5c79958110ac947115a9c106a 865 libs optional gensync_2.0.5-1.dsc
+ 411a8cd9b683570441cf421b72ac67fa 41154412 libs optional gensync_2.0.5.orig.tar.gz
+ edfe1c8e828f505e1250aee5532ef9aa 9016 libs optional gensync_2.0.5-1.debian.tar.xz
+ 7f0a490a2fc49169d19ea5633bec4d17 6182 libs optional gensync_2.0.5-1_amd64.buildinfo
+ b941c53a288429317acadee65e1cdc51 891548 libdevel optional gensync_2.0.5-1_amd64.deb
