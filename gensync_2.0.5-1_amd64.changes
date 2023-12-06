@@ -16,20 +16,20 @@ Changes:
  .
    * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 Checksums-Sha1:
- 8c196cd895d7403d8740839ec11eaf6c4f5ab4e5 865 gensync_2.0.5-1.dsc
+ 802c92bbdb41016cc1288d08453a82c9ee54af1b 865 gensync_2.0.5-1.dsc
  7d49158d02a9dda95725776e6c2c52cf3f20c574 41154412 gensync_2.0.5.orig.tar.gz
- abf01deb9ca0e629fa404fc72932ec2587ac03f1 9016 gensync_2.0.5-1.debian.tar.xz
- f0eccd98f42d072d9fe950ac308027f7f760d920 6182 gensync_2.0.5-1_amd64.buildinfo
- 68501321298fa44405b197b84665f8f4a99c9e98 891548 gensync_2.0.5-1_amd64.deb
+ b62fd4d7ed00e634761a1a689beb12e3c3e4b792 9008 gensync_2.0.5-1.debian.tar.xz
+ b9027b8fe1d406e4df9d82b11a79df25a0f10329 6182 gensync_2.0.5-1_amd64.buildinfo
+ cdd8ec3fd487980b84ae22d74435ff6fedac094a 891540 gensync_2.0.5-1_amd64.deb
 Checksums-Sha256:
- 7c1321ab578d72d1f0ba2581389d05af4c20408ccc8b3130452f01966e4afbb5 865 gensync_2.0.5-1.dsc
+ a7054d5189889b7b1b905635ff52837c2f6d9462e8fd4403521a80d70897aa65 865 gensync_2.0.5-1.dsc
  9fa97fa6f55c1e2577dd1649d10edeb0d6ed1e1d7719bae4669858dcfa8a95f7 41154412 gensync_2.0.5.orig.tar.gz
- b4b11e721ee9b7b1436a2556df4a69dbea3e1a1dd081f17d1de202d79c8ed024 9016 gensync_2.0.5-1.debian.tar.xz
- 232ba8a306984d5c76f48e8190eeee17325ac3b38276dcfe99f61a63e6c49af9 6182 gensync_2.0.5-1_amd64.buildinfo
- 49212538d8226993b77ac89376fe5bdeef35835681aa22ed684ced5f96eb4bcc 891548 gensync_2.0.5-1_amd64.deb
+ 2b35f929dae9e81d8dba4b0cee3c90c3ded806d879f275afaf6df49dad2d9ec8 9008 gensync_2.0.5-1.debian.tar.xz
+ 5b6dbf5f5cece92d866c0ce4f3ed548d0d19f72cd88dc27bdd6bcf92dd2571d8 6182 gensync_2.0.5-1_amd64.buildinfo
+ 3292b730d229e576f372e4cf1f5a8a3084206ad03b0e69ee864e4c6f0a124818 891540 gensync_2.0.5-1_amd64.deb
 Files:
- 467e76d5c79958110ac947115a9c106a 865 libs optional gensync_2.0.5-1.dsc
+ c517b54dc152a3d7f2f172e4e9719767 865 libs optional gensync_2.0.5-1.dsc
  411a8cd9b683570441cf421b72ac67fa 41154412 libs optional gensync_2.0.5.orig.tar.gz
- edfe1c8e828f505e1250aee5532ef9aa 9016 libs optional gensync_2.0.5-1.debian.tar.xz
- 7f0a490a2fc49169d19ea5633bec4d17 6182 libs optional gensync_2.0.5-1_amd64.buildinfo
- b941c53a288429317acadee65e1cdc51 891548 libdevel optional gensync_2.0.5-1_amd64.deb
+ 8a706a7055ba13c96ca3d695d9fdcbaf 9008 libs optional gensync_2.0.5-1.debian.tar.xz
+ ceb3311da8eb4970e68e467d39ca0383 6182 libs optional gensync_2.0.5-1_amd64.buildinfo
+ 5229cf6cbb888d48107a521f5915a71c 891540 libdevel optional gensync_2.0.5-1_amd64.deb

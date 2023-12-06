@@ -4,17 +4,17 @@ Binary: gensync
 Architecture: amd64 source
 Version: 2.0.5-1
 Checksums-Md5:
- 467e76d5c79958110ac947115a9c106a 865 gensync_2.0.5-1.dsc
- b941c53a288429317acadee65e1cdc51 891548 gensync_2.0.5-1_amd64.deb
+ c517b54dc152a3d7f2f172e4e9719767 865 gensync_2.0.5-1.dsc
+ 5229cf6cbb888d48107a521f5915a71c 891540 gensync_2.0.5-1_amd64.deb
 Checksums-Sha1:
- 8c196cd895d7403d8740839ec11eaf6c4f5ab4e5 865 gensync_2.0.5-1.dsc
- 68501321298fa44405b197b84665f8f4a99c9e98 891548 gensync_2.0.5-1_amd64.deb
+ 802c92bbdb41016cc1288d08453a82c9ee54af1b 865 gensync_2.0.5-1.dsc
+ cdd8ec3fd487980b84ae22d74435ff6fedac094a 891540 gensync_2.0.5-1_amd64.deb
 Checksums-Sha256:
- 7c1321ab578d72d1f0ba2581389d05af4c20408ccc8b3130452f01966e4afbb5 865 gensync_2.0.5-1.dsc
- 49212538d8226993b77ac89376fe5bdeef35835681aa22ed684ced5f96eb4bcc 891548 gensync_2.0.5-1_amd64.deb
+ a7054d5189889b7b1b905635ff52837c2f6d9462e8fd4403521a80d70897aa65 865 gensync_2.0.5-1.dsc
+ 3292b730d229e576f372e4cf1f5a8a3084206ad03b0e69ee864e4c6f0a124818 891540 gensync_2.0.5-1_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 14 Nov 2023 23:10:35 -0500
+Build-Date: Wed, 06 Dec 2023 02:59:28 -0500
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -133,7 +133,7 @@ Installed-Build-Depends:
  libpam0g (= 1.4.0-11ubuntu2.3),
  libpcre2-8-0 (= 10.39-3ubuntu0.1),
  libpcre3 (= 2:8.39-13ubuntu0.22.04.1),
- libperl5.34 (= 5.34.0-3ubuntu1.2),
+ libperl5.34 (= 5.34.0-3ubuntu1.3),
  libpipeline1 (= 1.5.5-1),
  libquadmath0 (= 12.3.0-1ubuntu1~22.04),
  libseccomp2 (= 2.5.3-2ubuntu2),
@@ -158,7 +158,7 @@ Installed-Build-Depends:
  libuuid1 (= 2.37.2-4ubuntu3),
  libxml2 (= 2.9.13+dfsg-1ubuntu0.3),
  libzstd1 (= 1.4.8+dfsg-3build1),
- linux-libc-dev (= 5.15.0-88.98),
+ linux-libc-dev (= 5.15.0-89.99),
  login (= 1:4.8.1-2ubuntu2.1),
  lsb-base (= 11.1.0ubuntu4),
  lto-disabled-list (= 24),
@@ -169,9 +169,9 @@ Installed-Build-Depends:
  ncurses-base (= 6.3-2ubuntu0.1),
  ncurses-bin (= 6.3-2ubuntu0.1),
  patch (= 2.7.6-7build2),
- perl (= 5.34.0-3ubuntu1.2),
- perl-base (= 5.34.0-3ubuntu1.2),
- perl-modules-5.34 (= 5.34.0-3ubuntu1.2),
+ perl (= 5.34.0-3ubuntu1.3),
+ perl-base (= 5.34.0-3ubuntu1.3),
+ perl-modules-5.34 (= 5.34.0-3ubuntu1.3),
  po-debconf (= 1.0.21+nmu1),
  rpcsvc-proto (= 1.4.2-0ubuntu6),
  sed (= 4.8-1ubuntu2),
