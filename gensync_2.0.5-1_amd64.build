@@ -123,6 +123,13 @@ make[2]: Leaving directory '/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-
 /usr/bin/cmake -E cmake_progress_start /home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-x86_64-linux-gnu/CMakeFiles 0
 make[1]: Leaving directory '/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-x86_64-linux-gnu'
    dh_auto_test
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 	cd obj-x86_64-linux-gnu && make -j2 test ARGS\+=--verbose ARGS\+=-j2
 make[1]: Entering directory '/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-x86_64-linux-gnu'
 Running tests...
@@ -142,7 +149,21 @@ No tests were found!!!
 make[1]: Leaving directory '/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-x86_64-linux-gnu'
    create-stamp debian/debhelper-build-stamp
    dh_prep
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_auto_install --destdir=debian/gensync/
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 	cd obj-x86_64-linux-gnu && make -j2 install DESTDIR=/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/debian/gensync AM_UPDATE_INFO_DIR=no "INSTALL=install --strip-program=true"
 make[1]: Entering directory '/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-x86_64-linux-gnu'
 /usr/bin/cmake -S/home/chxy517/Desktop/gensync-deb/gensync-2.0.5 -B/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-x86_64-linux-gnu --check-build-system CMakeFiles/Makefile.cmake 0
@@ -198,28 +219,182 @@ Install the project...
 -- Installing: /home/chxy517/Desktop/gensync-deb/gensync-2.0.5/debian/gensync/usr/include/GenSync/Syncs/Cuckoo.h
 make[1]: Leaving directory '/home/chxy517/Desktop/gensync-deb/gensync-2.0.5/obj-x86_64-linux-gnu'
    dh_installdocs
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_installchangelogs
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_perl
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_link
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_strip_nondeterminism
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_compress
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_fixperms
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_missing
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_dwz -a
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_strip -a
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_makeshlibs -a
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_shlibdeps -a
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_installdeb
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_gencontrol
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_md5sums
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
    dh_builddeb
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 dpkg-deb: building package 'gensync' in '../gensync_2.0.5-1_amd64.deb'.
  dpkg-genbuildinfo -O../gensync_2.0.5-1_amd64.buildinfo
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
  dpkg-genchanges -O../gensync_2.0.5-1_amd64.changes
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 dpkg-genchanges: info: including full source code in upload
  dpkg-source --after-build .
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 dpkg-buildpackage: info: full upload (original source is included)
 Now running lintian gensync_2.0.5-1_amd64.changes ...
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
 E: gensync: changelog-is-dh_make-template
 E: gensync: copyright-contains-dh_make-todo-boilerplate
 E: gensync source: debian-rules-is-dh_make-template

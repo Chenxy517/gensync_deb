@@ -4,17 +4,17 @@ Binary: gensync
 Architecture: amd64 source
 Version: 2.0.5-1
 Checksums-Md5:
- c517b54dc152a3d7f2f172e4e9719767 865 gensync_2.0.5-1.dsc
- 5229cf6cbb888d48107a521f5915a71c 891540 gensync_2.0.5-1_amd64.deb
+ 56704d7958a400c08ffcd90ac4913a73 865 gensync_2.0.5-1.dsc
+ aab34edf1c3af41e78dbf9e27914762e 891564 gensync_2.0.5-1_amd64.deb
 Checksums-Sha1:
- 802c92bbdb41016cc1288d08453a82c9ee54af1b 865 gensync_2.0.5-1.dsc
- cdd8ec3fd487980b84ae22d74435ff6fedac094a 891540 gensync_2.0.5-1_amd64.deb
+ f272de63d88d5820d2ad8d40f812335701dbf0e3 865 gensync_2.0.5-1.dsc
+ b0320fbdcc507bae681f071138fb9349422c7eae 891564 gensync_2.0.5-1_amd64.deb
 Checksums-Sha256:
- a7054d5189889b7b1b905635ff52837c2f6d9462e8fd4403521a80d70897aa65 865 gensync_2.0.5-1.dsc
- 3292b730d229e576f372e4cf1f5a8a3084206ad03b0e69ee864e4c6f0a124818 891540 gensync_2.0.5-1_amd64.deb
+ 814dcbefbfb0d0009779030c7d105759203cbc96b2fd3634e662bfd9baf028fb 865 gensync_2.0.5-1.dsc
+ b5d1328b211b479480aa9b7d078e385e5e1e34ba08f790eb4f8e81c718c405ac 891564 gensync_2.0.5-1_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 06 Dec 2023 02:59:28 -0500
+Build-Date: Mon, 11 Dec 2023 02:41:15 -0500
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -30,7 +30,6 @@ Installed-Build-Depends:
  binutils (= 2.38-4ubuntu2.3),
  binutils-common (= 2.38-4ubuntu2.3),
  binutils-x86-64-linux-gnu (= 2.38-4ubuntu2.3),
- bsdextrautils (= 2.37.2-4ubuntu3),
  bsdutils (= 1:2.37.2-4ubuntu3),
  build-essential (= 12.9ubuntu3),
  bzip2 (= 1.0.8-5build1),
@@ -59,7 +58,6 @@ Installed-Build-Depends:
  gettext (= 0.21-4ubuntu4),
  gettext-base (= 0.21-4ubuntu4),
  grep (= 3.7-1build1),
- groff-base (= 1.22.4-8build1),
  gzip (= 1.10-4ubuntu4.1),
  hostname (= 3.23ubuntu2),
  init-system-helpers (= 1.62),
@@ -76,9 +74,9 @@ Installed-Build-Depends:
  libblkid1 (= 2.37.2-4ubuntu3),
  libbz2-1.0 (= 1.0.8-5build1),
  libc-bin (= 2.35-0ubuntu3.4),
- libc-dev-bin (= 2.35-0ubuntu3.4),
- libc6 (= 2.35-0ubuntu3.4),
- libc6-dev (= 2.35-0ubuntu3.4),
+ libc-dev-bin (= 2.35-0ubuntu3.5),
+ libc6 (= 2.35-0ubuntu3.5),
+ libc6-dev (= 2.35-0ubuntu3.5),
  libcap-ng0 (= 0.7.9-2.2build3),
  libcap2 (= 1:2.44-1ubuntu0.22.04.1),
  libcc1-0 (= 12.3.0-1ubuntu1~22.04),
@@ -134,9 +132,7 @@ Installed-Build-Depends:
  libpcre2-8-0 (= 10.39-3ubuntu0.1),
  libpcre3 (= 2:8.39-13ubuntu0.22.04.1),
  libperl5.34 (= 5.34.0-3ubuntu1.3),
- libpipeline1 (= 1.5.5-1),
  libquadmath0 (= 12.3.0-1ubuntu1~22.04),
- libseccomp2 (= 2.5.3-2ubuntu2),
  libselinux1 (= 3.3-1build2),
  libsigsegv2 (= 2.13-1ubuntu3),
  libsmartcols1 (= 2.37.2-4ubuntu3),
@@ -152,7 +148,6 @@ Installed-Build-Depends:
  libtool (= 2.4.6-15build2),
  libtsan0 (= 11.4.0-1ubuntu1~22.04),
  libubsan1 (= 12.3.0-1ubuntu1~22.04),
- libuchardet0 (= 0.0.7-1build2),
  libudev1 (= 249.11-0ubuntu3.9),
  libunistring2 (= 1.0-1),
  libuuid1 (= 2.37.2-4ubuntu3),
@@ -164,7 +159,6 @@ Installed-Build-Depends:
  lto-disabled-list (= 24),
  m4 (= 1.4.18-5ubuntu2),
  make (= 4.3-4.1build1),
- man-db (= 2.10.2-1),
  mawk (= 1.3.4.20200120-3),
  ncurses-base (= 6.3-2ubuntu0.1),
  ncurses-bin (= 6.3-2ubuntu0.1),
@@ -177,7 +171,7 @@ Installed-Build-Depends:
  sed (= 4.8-1ubuntu2),
  sensible-utils (= 0.0.17),
  sysvinit-utils (= 3.01-1ubuntu1),
- tar (= 1.34+dfsg-1ubuntu0.1.22.04.1),
+ tar (= 1.34+dfsg-1ubuntu0.1.22.04.2),
  util-linux (= 2.37.2-4ubuntu3),
  xz-utils (= 5.2.5-2ubuntu1),
  zlib1g (= 1:1.2.11.dfsg-2ubuntu9.2)
